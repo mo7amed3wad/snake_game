@@ -1,4 +1,5 @@
 # snake_game
+![Screenshot_1628751202](https://user-images.githubusercontent.com/53196846/129157026-9e2a70fb-447a-42b1-afad-fdca1b3837e2.png)
 
 A new Flutter project.
 
